@@ -1,6 +1,8 @@
 # MAD_PWA_Summary
 This repo consists of all the files related to the MAD_PWA Lab along with Experiments and Mini project
 
+<div align = center>
+
 | Experiment No.  | Experiment Detail | Github URL |
 | ------------- | ------------- | ------------- |
 | Exp 01  |  First Flutter App  | Content Cell  |
@@ -14,5 +16,7 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 | Exp 09  | Content Cell  | Content Cell  |
 | Exp 10  | Content Cell  | Content Cell  |
 | Mini Project  | MP  | MP  |
+  
+</div>
 
 

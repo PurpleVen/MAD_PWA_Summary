@@ -12,7 +12,7 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 | Exp 05  | Firebase Authentication Service  | Content Cell  |
 | Exp 06  |  Routes and Consume API  | Content Cell  |
 | Exp 07  | Navigation Drawer  | Content Cell  |
-| Mini Project  | MP  | MP  |
+| Mini Project  | InvSync - Warehouse Monitoring And Management System  | https://github.com/Om-jannu/warehouse-monitoring-and-management-system  |
   
 </div>
 

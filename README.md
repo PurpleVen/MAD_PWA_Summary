@@ -12,9 +12,6 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 | Exp 05  | Firebase Authentication Service  | Content Cell  |
 | Exp 06  |  Routes and Consume API  | Content Cell  |
 | Exp 07  | Navigation Drawer  | Content Cell  |
-| Exp 08  | Content Cell  | Content Cell  |
-| Exp 09  | Content Cell  | Content Cell  |
-| Exp 10  | Content Cell  | Content Cell  |
 | Mini Project  | MP  | MP  |
   
 </div>
